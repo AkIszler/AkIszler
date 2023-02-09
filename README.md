@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AkIszler
-- 👀 I’m interested in learning mostly. Currently on this C# / Javascript kick but I need to brush up on my HTLM and CSS
-- 🌱 I’m currently learning I think i just... yeah above
-- 💞️ I’m looking to collaborate on nothing atm because lord I AM BAD
-- 📫 How to reach me tbh I would say reddit, or maybe twitter but I dont link any of my programming stuff with my minimal Social media stuff
-
+- 👀 I’m interested in learning mostly. Currently on this C# Kick, wanna get into Unity Stuff again, really enjoying Maui as well!
+- 🌱 I’m currently learning or believe I am C# and XAML/Maui, and will be using it for Unity C# later 
+- 💞️ I’m looking to collaborate at some point, maybe on a game engine? I sorta made a half assed one, and that was fun. I just wanna help with SOMETHING when I get
+- good enough to do so.
+- 📫 How to reach me, well... here and twitter @boredSoloDev
 <!---
 AkIszler/AkIszler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
