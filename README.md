@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkIszler
 - 👀 I’m interested in learning mostly. Currently on this C# Kick, wanna get into Unity Stuff again, really enjoying Maui as well!
-- 🌱 I’m currently learning or believe I am C# and XAML/Maui, and will be using it for Unity C# later 
+- 🌱 I’m currently learning or believe I am C# and XAML/Maui, and will be using it for Unity C# later I also REALLY wanna check out Blazor
 - 💞️ I’m looking to collaborate at some point, maybe on a game engine? I sorta made a half assed one, and that was fun. I just wanna help with SOMETHING when I get
 - good enough to do so.
 - 📫 How to reach me, well... here and twitter @boredSoloDev
